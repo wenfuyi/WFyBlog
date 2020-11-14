@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/
-u=702257389,1274025419&fm=27&gp=0.jpg">
+  <img src="'https://static001.geekbang.org/resource/image/89/8f/890bb2e1f9e0f7a027446c35a1cb9d8f.jpg">
 </p>
 &emsp;&emsp;此博客主要用来记录一些自己平时的学习总结和工作方面的思考感悟，以方便今后回顾查阅。同时也勉励自己日益精进，努力前行。此外，由于笔者水平有限，如果文中有错误之处，还望各位读者悉心指正，可将您的宝贵意见和建议发送至wenfuyi_888@163.com。
 
