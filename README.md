@@ -1,5 +1,5 @@
 <p align='center'>
-  <img src='https://static001.geekbang.org/resource/image/89/8f/890bb2e1f9e0f7a027446c35a1cb9d8f.jpg'>
+  <img src='https://static001.geekbang.org/resource/image/e5/82/e58ba9b3fff815cac4ece87461545682.jpg'>
 </p>
 
 <p align='center'>
