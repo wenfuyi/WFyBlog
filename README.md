@@ -14,7 +14,7 @@
 </p >
 
 <p align='center'>
-  <a href="">< img src="https://img.shields.io/badge/blog-https://baohenglin.github.io-blue.svg"></a>
+  <a href=""><img src="https://img.shields.io/badge/blog-https://baohenglin.github.io-blue.svg"></a>
 </p>
 &emsp;&emsp;此博客主要用来记录一些自己平时的学习总结和工作方面的思考感悟，以方便今后回顾查阅。同时也勉励自己日益精进，努力前行。此外，由于笔者水平有限，如果文中有错误之处，还望各位读者悉心指正，可将您的宝贵意见和建议发送至baohenglin@gmail.com。
 
