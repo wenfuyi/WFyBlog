@@ -1,16 +1,16 @@
 <p align='center'>
   <img src='https://static001.geekbang.org/resource/image/89/8f/890bb2e1f9e0f7a027446c35a1cb9d8f.jpg'>
-</p >
+</p>
 
 <p align='center'>
-< img src="https://img.shields.io/badge/platform-iOS-ff69b4.svg">
-< img src="https://img.shields.io/badge/language-Objective--C-orange.svg">
-< img src="https://img.shields.io/badge/language-JavaScript-yellow.svg">
-< img src="https://img.shields.io/badge/language-Java-yellow.svg">
-< img src="https://img.shields.io/badge/language-python-yellowgreen.svg">
-< img src="https://img.shields.io/badge/language-shell-green.svg">
-< img src="https://img.shields.io/badge/language-C-yellow.svg">
-< img src="https://img.shields.io/badge/language-C++-yellow.svg">
+<img src="https://img.shields.io/badge/platform-iOS-ff69b4.svg">
+<img src="https://img.shields.io/badge/language-Objective--C-orange.svg">
+<img src="https://img.shields.io/badge/language-JavaScript-yellow.svg">
+<img src="https://img.shields.io/badge/language-Java-yellow.svg">
+<img src="https://img.shields.io/badge/language-python-yellowgreen.svg">
+<img src="https://img.shields.io/badge/language-shell-green.svg">
+<img src="https://img.shields.io/badge/language-C-yellow.svg">
+<img src="https://img.shields.io/badge/language-C++-yellow.svg">
 </p >
 
 <p align='center'>
