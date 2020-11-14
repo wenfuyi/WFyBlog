@@ -1,5 +1,5 @@
 <p align='center'>
-  <img src='https://static001.geekbang.org/resource/image/e5/82/e58ba9b3fff815cac4ece87461545682.jpg'>
+  <img src='https://static001.geekbang.org/resource/image/e5/82/e58ba9b3fff815cac4ece87461545682.jpg' style="width: 100%;">
 </p>
 
 <p align='center'>
